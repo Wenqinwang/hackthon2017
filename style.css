@@ -1,0 +1,36 @@
+#explore{
+    color:white;
+}
+
+#title{
+    margin-top:5%;
+    margin-bottom:10%;
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size:70px;
+    color:#31708f;
+}
+
+#title2{
+    margin-top:5%;
+    margin-bottom:5%;
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size:70px;
+    color:#31708f;
+}
+
+
+
+#subtitle{
+
+    margin-bottom:2%;
+    font-family: 'Slabo 27px', serif;
+    font-size:20px;
+
+
+}
+
+#content{
+
+    font-family: 'Slabo 27px', serif;
+    font-size:15px;
+}
